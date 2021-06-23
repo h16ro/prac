@@ -13,5 +13,6 @@ function getAge(birthday){
     }
     return age;
 }
+
 document.write(getAge(birthday)+"歳");
 
